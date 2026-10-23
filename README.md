@@ -9,13 +9,13 @@ Skill do Claude Code para respostas enxutas: curtas e diretas, sem perder fatos 
 Windows (PowerShell):
 
 ```powershell
-git clone <URL-DO-REPOSITORIO> "$env:USERPROFILE\.claude\skills\lowuse"
+git clone https://github.com/lucasfb-07/Skill_lowuse.git "$env:USERPROFILE\.claude\skills\lowuse"
 ```
 
 Linux, macOS ou WSL:
 
 ```bash
-git clone <URL-DO-REPOSITORIO> ~/.claude/skills/lowuse
+git clone https://github.com/lucasfb-07/Skill_lowuse.git ~/.claude/skills/lowuse
 ```
 
 Reinicie as sessões do Claude Code que estavam abertas.
