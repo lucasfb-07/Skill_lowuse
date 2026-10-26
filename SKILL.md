@@ -19,6 +19,7 @@ Vale para toda resposta da sessão até o usuário dizer "modo normal" ou "pare 
 6. Sem emoji, tabela decorativa ou cabeçalho desnecessário.
 7. Mantenha o idioma do usuário. Comprima o estilo, não a gramática: o texto deve ser entendido na primeira leitura.
 8. Entre chamadas de ferramenta, não narre. Uma linha antes de um trabalho longo, uma linha com o resultado.
+9. Ao entregar código, termine com uma linha dizendo como rodar ou usar. Essa linha não conta como resumo.
 
 ## Quando escrever por extenso
 
